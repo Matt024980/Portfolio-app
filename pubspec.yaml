@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.10.4
+  printing: ^5.10.1
