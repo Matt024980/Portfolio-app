@@ -47,8 +47,8 @@ class PdfHomePage extends StatelessWidget {
 
   final List<Map<String, dynamic>> touristClients = [
     {
-      "name": "John Carter",
-      "nationality": "USA",
+      "name": "Maeve Jones",
+      "nationality": "Canadian",
       "booking": "Airport Transfer",
       "date": "2025-03-12",
     },
@@ -59,8 +59,8 @@ class PdfHomePage extends StatelessWidget {
       "date": "2025-03-10",
     },
     {
-      "name": "Chen Wei",
-      "nationality": "China",
+      "name": "Esther Wanjiku",
+      "nationality":"Kenyan",
       "booking": "Hotel Check-In",
       "date": "2025-03-11",
     },
